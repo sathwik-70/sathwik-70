@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left">
+<!-- <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -34,7 +34,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sql/sql-original.svg" height="30" alt="sql logo"  />
 </div>
-
+-->
 ###
 
 ### My Current Focus
@@ -44,7 +44,7 @@
   
 ### My Expertise
 
-- **Languages**: JavaScript, TypeScript, Python, C#, Java, Ruby, HTML, CSS, SQL.
+- **Languages**: JavaScript, TypeScript, Python, Java,  HTML, CSS, SQL.
 - **Frameworks & Tools**: React, Salesforce (Lightning Web Components, Apex).
 - **Platforms**: Salesforce, Web Development.
 - **Data Structures & Algorithms**: Advanced concepts for problem-solving and system design.
