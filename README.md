@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sathwik</h1>
-<h3 align="center">A passionate Full-Stack Developer, DeFi Enthusiast, and Hackathon Finalist from India 🇮🇳</h3>
+<h3 align="center">A student developer passionate about full-stack development, AI, blockchain, and exploring emerging technologies 🚀</h3>
 
 ###
 
@@ -14,49 +14,48 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **Jupymate** — a multi-utility Solana DeFi dashboard built with Jupiter APIs.
-- 🌱 Currently diving deeper into **Advanced Data Structures**, **AI/ML**, **IoT**, **Salesforce Development**.
-- 🏆 Finalist at **Namaste Jupiverse Hackathon 2025**
-- 🎯 Passionate about building impactful cloud-based, DeFi, and AI-powered applications.
+- 🎓 Currently a student from India, exploring various tech domains
+- 🧑‍💻 Learning and working on **Web Development**, **Machine Learning**, and **Blockchain** technologies
+- 🌱 Actively experimenting with different tech stacks, APIs, and open-source libraries
+- ⚡ Participated in **Namaste Jupiverse Hackathon 2025** to learn Solana + DeFi development
 
 ## 📌 Notable Projects
 
-- 🔥 **[Jupymate](#)** — Solana DeFi app for swaps, portfolio, route viz, limit orders *(React.js, TypeScript, Solana, Jupiter APIs)*
-- 📈 **[Online Auction Platform](#)** — Real-time MERN stack bidding app with chat, notifications, role management
-- 🗣️ **[Voice Assistant Android App](#)** — Siri-like assistant with voice commands, wake word detection, home automation
-- 💻 **[Portfolio Website](#)** — Personal portfolio site with 3D mockups & motion animations (Next.js, Framer Motion)
-- ☁️ **[Cloud Deployment Toolkit](#)** — AWS+Azure MERN deployment templates and automated pipelines
+- 🔬 **Kidney CT Scan Analyzer (WIP)** — AI-based tool to analyze CT scan images for anomaly detection *(Python, OpenCV, ML Libraries)*
+- 📈 **Online Auction Platform** — Real-time MERN stack bidding system with authentication, roles, and socket-based bidding updates
+- 🌐 **Personal Portfolio Website** — React-based responsive site with 3D mockups and animations to showcase my work
+- 📊 **Data Analytics Projects** — Statistics, hypothesis testing, regression, and clustering-based mini projects in Python
 
 ## 🧑‍💻 Tech Stack & Tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" />
 </div>
 
 ###
 
-## 🏆 Hackathons
-
-- 🥇 **Namaste Jupiverse Hackathon 2025** — Finalist  
-  Project: **Jupymate** (Solana DeFi dashboard)
-
 ## 📊 GitHub Streak
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=sathwik-70&theme=dracula)](https://git.io/streak-stats)
+
+###
+
+## 📚 Currently Learning
+
+- Advanced Data Structures and Algorithms
+- Data Science & ML with Python
+- Solana Blockchain and DeFi APIs (Jupiter)
+- React, Next.js, and Tailwind CSS
+- Salesforce Platform Development
 
 ###
 
@@ -80,4 +79,4 @@
 
 ---
 
-<p align="center">✨ Built with ❤️ by Sathwik ✨</p>
+<p align="center">✨ Proudly building in public, always learning ✨</p>
